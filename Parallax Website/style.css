@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+section {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(https://wallpapercave.com/wp/wp2599594.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+section div {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 240, 252);
+}
+p {
+  font-size: 20px;
+  text-shadow: 2px 2px 5px black;
+}
+h2{
+    font-size: 64px;
+    font-weight: 900;
+    text-shadow: 2px 2px 5px black;
+}
+.Section2{
+    background-image:url(https://th.bing.com/th/id/R.ffe459582c8e4dc676d73e4b07dcabc0?rik=6SMf4H4I5ChVpQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fBeautiful-nature-cool-images-background-hd.jpg&ehk=E1s4F45rJN%2b%2feGvJDIkl0dBO1%2bRXNfZHrbfDQr2ZK9Y%3d&risl=&pid=ImgRaw&r=0)
+}
+.Section3{
+    background-image: url(https://wallpapercave.com/wp/wp2568544.jpg);
+}
+.Section4{
+    background-image: url(https://live.staticflickr.com/7521/15912388565_923f1c14a1_b.jpg);
+}
